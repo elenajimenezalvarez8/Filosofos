@@ -8,7 +8,7 @@
 		"identidad":"Parmenides"
 		},
 	"IQ":170,
-	"Anno_nacimiento":-540
+	"Anno_nacimiento":540
 	},
 	{
 	"identidad":"Parmenides",
@@ -19,7 +19,7 @@
 		"identidad":"Heraclito"
 		},
 	"IQ":140,
-	"Anno_nacimiento":-530
+	"Anno_nacimiento":530
 	},
 	{
 	"identidad":"Socrates",
@@ -31,7 +31,7 @@
 		"identidad":"Heraclito"
 		},
 	"IQ":250,
-	"Anno_nacimiento":-470
+	"Anno_nacimiento":470
 	},
 	{
 	"identidad":"Platon",
@@ -42,7 +42,7 @@
 		"identidad":"Socrates"
 		},
 	"IQ":200,
-	"Anno_nacimiento":-427
+	"Anno_nacimiento":427
 	},
 	{
 	"identidad":"Aristoteles",
@@ -53,7 +53,7 @@
 		"identidad":"Alejandro"
 		},
 	"IQ":190,
-	"Anno_nacimiento":-384
+	"Anno_nacimiento":384
 	},
 	{
 	"identidad":"Alejandro",
@@ -63,7 +63,7 @@
 		"identidad":"Aristoteles"
 		},
 	"IQ":80,
-	"Anno_nacimiento":-356
+	"Anno_nacimiento":356
 	}
 	]
 }
