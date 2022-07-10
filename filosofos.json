@@ -1,84 +1,59 @@
-{"filosofos":[
-	{
-	"identidad":"Heraclito",
-	"libros":1,
-	"relaciones":{
-		"identidad":"Socrates",
-		"identidad":"Parmenides"
+{
+	"filosofos": [{
+			"identidad": "Heraclito",
+			"libros": 1,
+			"IQ": 170
 		},
-	"IQ":170,
-	},
-	{
-	"identidad":"Parmenides",
-	"libros":1,
-	"relaciones":{
-		"identidad":"Socrates",
-		"identidad":"Heraclito"
+		{
+			"identidad": "Parmenides",
+			"libros": 1,
+			"IQ": 140
 		},
-	"IQ":140,
-	},
-	{
-	"identidad":"Socrates",
-	"libros":0,
-	"relaciones":{
-		"identidad":"Platon",
-		"identidad":"Parmenides",
-		"identidad":"Heraclito"
+		{
+			"identidad": "Socrates",
+			"libros": 0,
+			"IQ": 250
 		},
-	"IQ":250,
-	},
-	{
-	"identidad":"Platon",
-	"libros":28,
-	"relaciones":{
-		"identidad":"Aristoteles",
-		"identidad":"Socrates"
+		{
+			"identidad": "Platon",
+			"libros": 28,
+			"IQ": 200
 		},
-	"IQ":200,
-	},
-	{
-	"identidad":"Aristoteles",
-	"libros":31,
-	"relaciones":{
-		"identidad":"Platon",
-		"identidad":"Alejandro"
+		{
+			"identidad": "Aristoteles",
+			"libros": 31,
+			"IQ": 190
 		},
-	"IQ":190,
-	},
-	{
-	"identidad":"Alejandro",
-	"libros":0,
-	"relaciones":{
-		"identidad":"Aristoteles"
-		},
-	"IQ":80,
-	}
+		{
+			"identidad": "Alejandro",
+			"libros": 0,
+			"IQ": 80
+		}
 	],
- fechas:[
-	 "Heraclito":[
-	"annos_de_vida": 40,
-	"Anno_nacimiento":540
-	 ],
-	 "Parmenides":[
-	"annos_de_vida": 85,
-	"Anno_nacimiento":530
-	 ],
- 	 "Socrates":[
-	"annos_de_vida": 70,
-	"Anno_nacimiento":470
-	 ],
-  	 "Platon":[
-	"annos_de_vida": 60,
-	"Anno_nacimiento":427
-	 ],
-   	 "Aristoteles":[
-	"annos_de_vida": 62,
-	"Anno_nacimiento":384
-	 ],
-    	 "Alejandro":[
-	"annos_de_vida": 32,
-	"Anno_nacimiento":356
-	 ]
- 	]
- {
+	"fechas": {
+		"Heraclito": [{
+			"annos_de_vida": 40,
+			"Anno_nacimiento": 540
+		}],
+		"Parmenides": [{
+			"annos_de_vida": 85,
+			"Anno_nacimiento": 530
+		}],
+		"Socrates": [{
+			"annos_de_vida": 70,
+			"Anno_nacimiento": 470
+		}],
+		"Platon": [{
+			"annos_de_vida": 60,
+			"Anno_nacimiento": 427
+		}],
+		"Aristoteles": [{
+			"annos_de_vida": 62,
+			"Anno_nacimiento": 384
+		}],
+		"Alejandro": [{
+			"annos_de_vida": 32,
+			"Anno_nacimiento": 356
+		}]
+	}
 }
