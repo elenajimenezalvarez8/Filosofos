@@ -1,45 +1,45 @@
 {
 "Heraclito":{
-	"libros conservados":1,
-	"annos de vida": 40,
+	"libros":1,
+	"annos_de_vida": 40,
 	"relaciones":{"Socrates","Parmenides"},
 	"IQ":170,
-	"Anno nacimiento":-540
+	"Anno_nacimiento":-540
 	},
 {
 "Parmenides":{
-	"libros conservados":1,
-	"annos de vida": 85,
+	"libros":1,
+	"annos_de_vida": 85,
 	"relaciones":{"Socrates","Heraclito"},
 	"IQ":170,
-	"Anno nacimiento":-530
+	"Anno_nacimiento":-530
 	},
 "Socrates":{
-	"libros conservados":0,
-	"annos de vida": 70,
+	"libros":0,
+	"annos_de_vida": 70,
 	"relaciones":{"Platon","Parmenides","Heraclito"},
 	"IQ":250,
-	"Anno nacimiento":-470
+	"Anno_nacimiento":-470
 	},
 "Platon": {
-	"libros conservados":28,
-	"annos de vida": 60,
+	"libros":28,
+	"annos_de_vida": 60,
 	"relaciones":{"Aristoteles","Socrates"},
 	"IQ":200,
-	"Anno nacimiento":-427
+	"Anno_nacimiento":-427
 	},
 "Aristoteles":{
-	"libros conservados":31,
-	"annos de vida": 62,
+	"libros":31,
+	"annos_de_vida": 62,
 	"relaciones":{"Platon","Alejandro"},
 	"IQ":190,
-	"Anno nacimiento":-384
+	"Anno_nacimiento":-384
 	},
 "Alejandro":{
-	"libros conservados":0,
-	"annos de vida": 32,
+	"libros":0,
+	"annos_de_vida": 32,
 	"relaciones":{"Aristoteles"},
 	"IQ":80,
-	"Anno nacimiento":-356
+	"Anno_nacimiento":-356
 	}
 }
