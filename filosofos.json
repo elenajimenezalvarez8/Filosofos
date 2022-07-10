@@ -3,7 +3,10 @@
 	"filosofo":"Heraclito",
 	"libros":1,
 	"annos_de_vida": 40,
-	"relaciones":{"Socrates","Parmenides"},
+	"relaciones":{
+		"filosofo":"Socrates",
+		"filosofo":"Parmenides"
+		},
 	"IQ":170,
 	"Anno_nacimiento":-540
 	},
@@ -11,7 +14,10 @@
 	"filosofo":"Parmenides",
 	"libros":1,
 	"annos_de_vida": 85,
-	"relaciones":{"Socrates","Heraclito"},
+	"relaciones":{
+		"filosofo":"Socrates",
+		"filosofo":"Heraclito"
+		},
 	"IQ":170,
 	"Anno_nacimiento":-530
 	},
@@ -19,7 +25,11 @@
 	"filosofo":"Socrates",
 	"libros":0,
 	"annos_de_vida": 70,
-	"relaciones":{"Platon","Parmenides","Heraclito"},
+	"relaciones":{
+		"filosofo":"Platon",
+		"filosofo":"Parmenides",
+		"filosofo":"Heraclito"
+		},
 	"IQ":250,
 	"Anno_nacimiento":-470
 	},
@@ -27,7 +37,10 @@
 	"filosofo":"Platon",
 	"libros":28,
 	"annos_de_vida": 60,
-	"relaciones":{"Aristoteles","Socrates"},
+	"relaciones":{
+		"filosofo":"Aristoteles",
+		"filosofo":"Socrates"
+		},
 	"IQ":200,
 	"Anno_nacimiento":-427
 	},
@@ -35,7 +48,10 @@
 	"filosofo":"Aristoteles",
 	"libros":31,
 	"annos_de_vida": 62,
-	"relaciones":{"Platon","Alejandro"},
+	"relaciones":{
+		"filosofo":"Platon",
+		"filosofo":"Alejandro"
+		},
 	"IQ":190,
 	"Anno_nacimiento":-384
 	},
@@ -43,7 +59,9 @@
 	"filosofo":"Alejandro",
 	"libros":0,
 	"annos_de_vida": 32,
-	"relaciones":{"Aristoteles"},
+	"relaciones":{
+		"filosofo":"Aristoteles"
+		},
 	"IQ":80,
 	"Anno_nacimiento":-356
 	}
