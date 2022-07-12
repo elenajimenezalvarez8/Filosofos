@@ -1,7 +1,7 @@
-﻿identidad;libros;annos_de_vida;IQ;Anno_nacimiento
-Heraclito;1;40;170;-540
-Parmenides;1;85;168;-530
-Socrates;0;70;200;-470
-Platon;28;60;190;-427
-Aristoteles;31;62;185;-384
-Alejandro;0;32;80;-356
+﻿identidad,libros,annos_de_vida,IQ;Anno_nacimiento
+Heraclito,1,40,170,-540
+Parmenides,1,85,168,-530
+Socrates,0,70,200,-470
+Platon,28,60,190,-427
+Aristoteles,31,62,185,-384
+Alejandro,0,32,80,-356
