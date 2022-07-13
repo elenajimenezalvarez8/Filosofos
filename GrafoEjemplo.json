@@ -8,7 +8,7 @@
     {"id": "Cratilo", "group": 1},
     {"id": "Pirron", "group": 2},
     {"id": "Epicteto", "group": 2},
-    {"id": "DiogenesLaercio, "group": 2},
+    {"id": "DiogenesLaercio", "group": 2},
     {"id": "Seneca", "group": 2},
     {"id": "MarcoAurelio", "group": 2},
     {"id": "ZenonDeCitio", "group": 2},
@@ -19,7 +19,7 @@
     {"id": "SanBuenaventura", "group": 3},
     {"id": "DunsEscotto", "group": 3},
     {"id": "Avicena", "group": 3},
-    {"id": "PedroAbelardo", "group": 3},
+    {"id": "PedroAbelardo", "group": 3}
   ],
   "links": [
     {"source": "Platon", "target": "Aristoteles", "value": 8},
@@ -100,7 +100,7 @@
     {"source": "PedroAbelardo", "target": "DunsEscotto", "value": 6},
     {"source": "PedroAbelardo", "target": "Avicena", "value": 7},
     {"source": "SanBuenaventura", "target": "SantoTomas", "value": 8},
-    {"source": "PedroAbelardo", "target": "SantoTomas", "value": 7},
+    {"source": "PedroAbelardo", "target": "SantoTomas", "value": 7}
     
   ]
 }
